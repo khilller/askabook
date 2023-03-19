@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1> 🔍 Ask a Book?</h1>
       <div>
-        <img src="././public/arm.png" className='logo'></img>
+        <img src="/arm.png" className='logo'></img>
       </div>
       
       <div className="card">
