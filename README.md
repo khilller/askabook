@@ -23,4 +23,4 @@ Feel free to contribute to the development of BookChat! Follow our contribution 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Happy reading and chatting with BookChat! 📚💬
+Happy reading and chatting with AskaBook! 📚💬
