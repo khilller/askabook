@@ -1,6 +1,6 @@
 # Ask a Book
 
-Welcome to BookChat, a unique web application that brings books to life through chat! Engage in dynamic conversations with your favorite books, powered by OpenAI's chat completion on the backend. BookChat is crafted with LangChain for language processing, Pinecone for an efficient vector database, and Gradio for an interactive chat interface.
+Welcome to AskaBook, a unique web application that brings books to life through chat! Engage in dynamic conversations with your favorite books, powered by OpenAI's chat completion on the backend. BookChat is crafted with LangChain for language processing, Pinecone for an efficient vector database, and Gradio for an interactive chat interface.
 
 ## Features
 
